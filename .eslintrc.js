@@ -13,6 +13,7 @@ module.exports = {
   rules: {
     // === BASE === //
     'func-names': 0,
+    'no-plusplus': 0,
     'no-console': 'warn',
     'no-nested-ternary': 0,
     'no-underscore-dangle': 0,
